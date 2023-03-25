@@ -1,0 +1,4 @@
+{
+    "image": "devbuntu",
+    "forwardPorts": [3000]
+}
